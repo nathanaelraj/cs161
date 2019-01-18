@@ -1,0 +1,3 @@
+https://gogle.com onclick="javascript:alert('XSS')"
+http://qejngkdc" onclick="javascript:alert('XSS')
+21' OR NOT id ='3
